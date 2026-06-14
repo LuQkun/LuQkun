@@ -4,6 +4,8 @@
 - 📫 How to reach me ,just DM me
 - 😄 Pronouns: bro
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/LuQkun?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 <!---
 LuQkun/LuQkun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
